@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndroidTools</string>
+    <string name="title_item_detail">Item Detail</string>
+    <string name="title_item_step">计步</string>
+</resources>
